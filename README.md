@@ -4,7 +4,7 @@ A scalable **Movie Data Analysis** project built with **Apache Spark / PySpark**
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates an end-to-end Big Data analytics workflow using Apache Spark on a GCP-based environment.
 
@@ -18,7 +18,7 @@ The workflow includes data ingestion, schema definition, timestamp conversion, S
 
 ---
 
-## 🏗️ Architecture / Workflow
+## Architecture / Workflow
 
 ```text
                     ┌──────────────────────┐
@@ -61,7 +61,7 @@ The workflow includes data ingestion, schema definition, timestamp conversion, S
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technology |
 |---|---|
@@ -79,7 +79,7 @@ The workflow includes data ingestion, schema definition, timestamp conversion, S
 
 ---
 
-## 🔄 Data Engineering Pipeline
+##  Data Engineering Pipeline
 
 ### 1. Data Ingestion
 
@@ -144,7 +144,7 @@ The project generates multiple analytical outputs, including:
 
 ---
 
-## 📁 Generated Output Files
+##  Generated Output Files
 
 The analytical outputs are saved under the Spark movie output directory in HDFS.
 
@@ -166,7 +166,7 @@ The analytical outputs are saved under the Spark movie output directory in HDFS.
 
 ---
 
-## 🔍 Key Spark SQL Techniques
+##  Key Spark SQL Techniques
 
 The project demonstrates practical Spark SQL techniques such as:
 
@@ -189,7 +189,7 @@ The project demonstrates practical Spark SQL techniques such as:
 
 ---
 
-## ☁️ GCP & Distributed Processing
+##  GCP & Distributed Processing
 
 The assignment documentation specifies an Apache Spark environment running on a **GCP cluster**, with **Dataproc/GCS** services, JupyterLab, and Apache Hive.
 
@@ -213,7 +213,7 @@ The HDFS output directory is also checked through the HDFS Namenode UI after the
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Spark-Movie-Data-Analysis/
@@ -240,7 +240,7 @@ Spark-Movie-Data-Analysis/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 
@@ -276,7 +276,7 @@ Then execute the notebook cells sequentially.
 
 ---
 
-## 💾 HDFS Locations
+##  HDFS Locations
 
 ### Input
 
@@ -294,7 +294,7 @@ Then execute the notebook cells sequentially.
 
 ---
 
-## 📈 Project Highlights
+##  Project Highlights
 
 - Built a complete **distributed movie analytics pipeline** using PySpark.
 - Processed **Movies, Ratings, and Tags** datasets using Spark DataFrames.
@@ -309,7 +309,7 @@ Then execute the notebook cells sequentially.
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates practical experience with:
 
@@ -328,7 +328,7 @@ This project demonstrates practical experience with:
 
 ---
 
-## 👨‍💻 Project Files
+##  Project Files
 
 | File | Description |
 |---|---|
@@ -338,6 +338,10 @@ This project demonstrates practical experience with:
 
 ---
 
-## ⭐ Project Summary
+## Project Summary
 
 **Spark Movie Data Analysis** is a Big Data analytics project that uses **PySpark, Spark SQL, HDFS, and GCP Spark infrastructure** to transform raw movie-related datasets into structured analytical outputs. It demonstrates an end-to-end workflow from distributed data ingestion through SQL-based analysis and HDFS output generation.
+
+---
+
+
