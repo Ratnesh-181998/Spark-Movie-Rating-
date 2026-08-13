@@ -1,1 +1,1 @@
-# Spark-Movie-Rating
+# Spark Movie Rating
